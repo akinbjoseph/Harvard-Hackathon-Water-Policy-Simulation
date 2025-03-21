@@ -32,4 +32,4 @@ The repository contains an interactive digital engagement tool to help stakehold
 
 ### Demo
 
-Visit the interactive demo: [https://akinbjoseph.github.io/waterpolicy/](https://akinbjoseph.github.io/waterpolicy/)
+Visit the interactive demo: [https://akinbjoseph.github.io/waterpolicy/](https://akinbjoseph.github.io/Harvard-Hackathon-Water-Policy-Simulation/)
