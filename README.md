@@ -1,7 +1,5 @@
 # Harvard-Hackathon-Water-Policy-Simulation
 
-## Water Beyond Borders: Reforming Water Sharing Institutions for Equitable Irrigation Access
-
 This repository contains a policy simulation developed for addressing water management challenges in India, with a specific focus on the Kaveri Basin as a model for water governance reform.
 
 ### Project Overview
